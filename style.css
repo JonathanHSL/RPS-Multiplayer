@@ -1,0 +1,76 @@
+body {
+	background-image: url('BG.jpg');
+
+}
+
+
+
+
+.currentPlayer {
+	border: 5px solid;
+	border-color: rgb(16, 19, 168);
+}
+
+
+.gamePanel{
+	background-color:white;
+}
+
+#name-input:focus {
+	color: #084596;
+	background-color: white;
+}
+
+
+#chat-input{
+	width:100%;
+	border-style : dotted;		
+}
+
+.panel{
+	border: 0;
+}
+
+.gamePanel {
+	height: 240px;
+	
+	
+	
+}
+
+
+
+
+
+
+#chatBox {
+	height: 100px;
+	width: 100%;
+	
+	text-align: left;
+	overflow:auto;
+  	background-color: white;
+	font-size: 9px;
+	color: black;
+
+}
+
+
+#playerOne, #playerTwo{
+	background-color: white;
+}
+.queue{
+	font-size: 15px;
+}
+.userChoice
+{
+	text-align: center;	
+}
+
+
+
+
+
+
+
+
